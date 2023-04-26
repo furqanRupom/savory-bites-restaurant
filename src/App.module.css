@@ -1,0 +1,11 @@
+.loginBg {
+    background-image: url(./assets/crop-hand-pointing-blackboard-near-food.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: 15% 25%;
+}
+
+.orange500 {
+    --tw-text-opacity: 1;
+    color: rgb(249 115 22 / var(--tw-text-opacity));
+}
